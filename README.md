@@ -1,2 +1,2 @@
-finding_motivations
+Finding Motivations
 ===================
