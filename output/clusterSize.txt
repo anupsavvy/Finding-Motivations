@@ -1,0 +1,10 @@
+# Created by Octave 3.8.0, Fri Mar 21 00:23:20 2014 CDT <anupsawant@Anups-MacBook-Pro.local>
+# name: clusterSize
+# type: matrix
+# rows: 3
+# columns: 1
+ 122
+ 124
+ 107
+
+
